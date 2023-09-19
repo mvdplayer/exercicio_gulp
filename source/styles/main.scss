@@ -1,0 +1,6 @@
+// aviso ! este arquivo ele ira importar pois ele é um arquivo de variaveis 
+@use "variaveis";
+
+body {
+    background-color: variaveis.$corPrincipal;
+}

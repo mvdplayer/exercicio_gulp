@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss","variaveis.scss"],"names":[],"mappings":"AAGA,KACI,iBCJW","file":"../main.css","sourcesContent":["// aviso ! este arquivo ele ira importar pois ele é um arquivo de variaveis \r\n@use \"variaveis\";\r\n\r\nbody {\r\n    background-color: variaveis.$corPrincipal;\r\n}","$corPrincipal: rgb(26, 240, 62);"]}
